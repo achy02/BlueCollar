@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83512677355",
+    "project_id": "bluecollar-33e04",
+    "storage_bucket": "bluecollar-33e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83512677355:android:7bc3a7704f1e750c687fae",
+        "android_client_info": {
+          "package_name": "com.example.bluecollar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83512677355-hr05gj6ia8r3okvd36rigrsn6js71msj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluecollar",
+            "certificate_hash": "7fafc2355d8f0b7a3d3c4904ac0665efbbb18736"
+          }
+        },
+        {
+          "client_id": "83512677355-bf539d23d3k65ru51h5earf85bpk9of1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9tEIT0SKMz78kag8j4mX7DlXrIH1USt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83512677355-bf539d23d3k65ru51h5earf85bpk9of1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
