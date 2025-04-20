@@ -1,6 +1,6 @@
 # 👷 BlueCollar
 
-**BlueCollar** is a cross-platform starter application built with Flutter. It serves as a boilerplate for developers to quickly scaffold and deploy apps targeting Android, iOS, Web, Windows, macOS, and Linux using a single codebase.
+**BlueCollar** is a cross-platform starter application built with Flutter. It serves as a boilerplate for developers to quickly scaffold and deploy apps targeting Android,Web, Windows using a single codebase.
 
 ---
 
@@ -12,7 +12,7 @@ BlueCollar offers a minimal yet scalable Flutter architecture that helps you kic
 
 ## ⚙️ Features
 
-- 🌐 **Cross-platform support** – Android, iOS, Web, Windows, macOS, and Linux
+- 🌐 **Cross-platform support** – Android, Windows.
 - 📦 **Single codebase** – Write once, deploy everywhere
 - 🧱 **Scalable structure** – Easy to maintain and extend
 - 🚀 **Flutter 3+ ready** – Uses latest stable Flutter SDK
