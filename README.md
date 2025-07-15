@@ -6,6 +6,8 @@
 
 ## 🧠 Overview
 
+
+
 BlueCollar offers a minimal yet scalable Flutter architecture that helps you kickstart multi-platform development. It's ideal for developers looking to build production-ready Flutter apps with clean structure and extendable code modules.
 
 ---
